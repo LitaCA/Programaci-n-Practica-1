@@ -8,6 +8,18 @@ int main()
 	   printf("Que te vaya bien");
 
 	   
-	   
+	int n1,n2,n3,den,valor;
+	printf("Ingrese valor para a: ");
+	scanf("%d",&n1);
+	printf("Ingrese valor para b: ");
+	scanf("%d",&n2);
+	printf("Ingrese valor para c: ");
+	scanf("%d",&n3);
+	
+	n1=n2*n2-4*n1*n3;
+	den=2*n1;
+	n2=sqrt(n1);
+	valor=n2/den;
+	printf("el valor para la ecuacion es: %d ",valor);
 	   
 	}
