@@ -8,6 +8,6 @@ int main()
 	   printf("Que te vaya bien");
 
 	   
-	   printf("Suma de 2+2");
+	   
 	   
 	}
