@@ -6,7 +6,7 @@ int main()
 	   printf("¿Como esta?");
 	   printf("Adios");
 	   printf("Que te vaya bien");
-	   printf("Que onda");
+
 	   
 	   printf("Suma de 2+2");
 	   
