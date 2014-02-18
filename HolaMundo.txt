@@ -8,6 +8,7 @@ int main()
 	   printf("Que te vaya bien");
 
 	   
+	printf("Ecuación");
 	int n1,n2,n3,den,valor;
 	printf("Ingrese valor para a: ");
 	scanf("%d",&n1);
